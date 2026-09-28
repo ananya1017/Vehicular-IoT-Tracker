@@ -1,2 +1,5 @@
-# Vehicular-IoT-Tracker
-**Vehicular IoT Tracker – ESP32 &amp; GPS** An ESP32-based vehicle tracking system using **NEO-6M GPS, Wi-Fi, Firebase Realtime Database, and geofencing** for real-time location monitoring and vehicle security alerts.
+Vehicular IoT Tracker – ESP32 & GPS
+
+An IoT-based vehicle tracking prototype using ESP32, NEO-6M GPS, Wi-Fi and Firebase Realtime Database for location monitoring and geofence-based alerts.
+
+Technologies: ESP32 • NEO-6M GPS • Firebase • Wi-Fi • TinyGPSPlus • Arduino
